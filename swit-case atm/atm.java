@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class atms {
+public class atm {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         boolean valid = false;
