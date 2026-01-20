@@ -1,12 +1,14 @@
-class coba1 {
-public static void main(String[] args) {
-String nim = "I.2510249";
-String nama = "muhammad abdul haqsyist al anwar";
-String umur = "18";
-String profesi = "mahasiswa";
-System.out.println(nim);
-System.out.println(nama);
-System.out.println(umur);
-System.out.println(profesi);
-}
+public class coba1 {
+    public static void main(String[] args) {
+
+        String nim = "1.2510249";
+        String nama = "Muhammad Aqyist";
+        nim = "1.2510249";
+        nama = "Muhammad Abdul Haqsyist Al Anwar";
+        String umur = "18 Tahun";
+
+        System.out.println("NIM   : " + nim);
+        System.out.println("Nama  : " + nama);
+        System.out.println("Umur  : " + umur);
+    }
 }
